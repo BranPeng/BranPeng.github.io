@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Bran</h1>
+      <p><b>全日制本科</b></p>
+      <p><b>南昌航空大学软件学院</b></p>
+      <p><b>邮箱：1710073927@qq.com</b></p>
+      <p><b>地址：深圳市南山区高新南十二路10号</b></p>
+      <p><a href="/index-en.html">English Version</a></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/BranPeng/BranPeng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 最新消息
+1. 消息1×××
 
-```markdown
-Syntax highlighted code block
+### 研究方向
+- 文本挖掘
+- 知识图谱
 
-# Header 1
-## Header 2
-### Header 3
+### 荣誉奖励
+- 奖学金
+- 荣誉称号
+- 比赛获奖
 
-- Bulleted
-- List
+### 项目研究
+#### 公司/学校/研究所（2013.9~2017.6）
+- **项目1**  
+项目描述
+- **项目2**  
+项目描述
 
-1. Numbered
-2. List
+#### 公司/学校/研究所（2017.9~至今）
+- **项目1**  
+项目描述
+- **项目2**  
+项目描述
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+---
+## 计算机专业要考哪些证书？这5种证书含金量最高，拿到就是高薪
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+如果你学的是计算机的相关专业，如果你想在职场上让自己更有竞争力，你首先要考虑那些最有含金量的证书，那些大学里的计算机等级考试证书就不用考虑了，就像你学英语专业去外企应聘，你拿的却是4、6级考试证书一样，怎么和拿着专8证书的人去竞争呢？
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BranPeng/BranPeng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
