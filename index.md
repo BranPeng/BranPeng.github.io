@@ -53,7 +53,39 @@
 
 如果你学的是计算机的相关专业，如果你想在职场上让自己更有竞争力，你首先要考虑那些最有含金量的证书，那些大学里的计算机等级考试证书就不用考虑了，就像你学英语专业去外企应聘，你拿的却是4、6级考试证书一样，怎么和拿着专8证书的人去竞争呢？
 
+
 ![](https://github.com/BranPeng/BranPeng.github.io/blob/master/Soft.jpeg)
 
-https://github.com/BranPeng/BranPeng.github.io/blob/master/Microsoft.jpeg
-![](https://github.com/BranPeng/BranPeng.github.io/blob/master/Soft.jpeg)
+第一种证书：计算机技术与软件专业资格考试证书
+
+是由国家人力资源和社会保障部、工业和信息化部领导的国家级考试，该考试分为 5 个专业类别，并分设了高、中、初级专业资格考试，共 28 个资格的考核。也是用人单位择优聘任相应专业技术职务（技术员、助理工程师、工程师、高级工程师）的基础。
+
+
+![](https://github.com/BranPeng/BranPeng.github.io/blob/master/Microsoft.jpeg)
+
+第二种证书：微软认证
+
+是微软公司为了推广微软技术，培养系统网络管理和应用开发人才的证书体系，该证书可以作为薪资职位变迁的有效证明，公司资质实力证明和移民加分等。拥有该证书的人大多都能得到丰厚的薪水。
+
+
+![](https://github.com/BranPeng/BranPeng.github.io/blob/master/Oracle.jpeg)
+
+第三种证书：Oracle认证
+
+是由Oracle公司颁布并实施的一项权威品的服务与支持。它是专为认证那些有操作能力与广泛理论知识的专业人才而设置的。是业界认可的IT专家资质证明，含金量可见一斑。
+
+
+![](https://github.com/BranPeng/BranPeng.github.io/blob/master/Cisco.jpeg)
+
+第四种证书：思科认证
+
+是由网络著名厂商——Cisco公司推出的。是互联网领域的国际权威认证。思科认证有CCNA、CCDA、CCNP、CCDP、CCSP、CCIP、CCVP、CCIE等多种不同级别、不同内容、不同方向的各种认证。可以考取初级、中级、高级网络工程师证书。
+
+
+![](https://github.com/BranPeng/BranPeng.github.io/blob/master/Huawei.jpeg)
+
+第五种证书：华为认证
+
+是由华为公司推出的网络工程师认证，是基于ICT产业链人才个人职业发展生命周期，以层次化的职业技术认证为指引，搭载华为“云－管－端”融合技术，推出的覆盖IP、IT、CT以及ICT融合技术领域的认证体系。提供了工程师级别、资深工程师级别和专家级别三类技术认证等级。
+
+以上证书都是计算机领域里含金量最高的证书，证书在手，相信你的职场也会因此而更有发展前景。
