@@ -53,4 +53,6 @@
 
 如果你学的是计算机的相关专业，如果你想在职场上让自己更有竞争力，你首先要考虑那些最有含金量的证书，那些大学里的计算机等级考试证书就不用考虑了，就像你学英语专业去外企应聘，你拿的却是4、6级考试证书一样，怎么和拿着专8证书的人去竞争呢？
 
-[]()
+[](https://github.com/BranPeng/BranPeng.github.io/blob/master/Soft.jpeg)
+
+<img src="/Soft.jpg" width="100%">
